@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_task1",
+  "version": "1.0.0",
+  "description": "nodejs_task1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"VALLIYAPPAN\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0",
+    "serve-static": "^1.15.0"
+  }
+}
